@@ -1,0 +1,18 @@
+.searchbox{
+  background-color: #CCC;
+  padding:1em;
+  box-shadow: 0px 1px 3px 0px #000;
+}
+
+.searchbox label{
+  display: block;
+}
+
+.searchbox input{
+  box-sizing: border-box;
+  width:100%;
+  padding: 0.5em 1em;
+  margin-top:0.25em;
+  border-radius:3px;
+  border:solid 1px #000;
+}
